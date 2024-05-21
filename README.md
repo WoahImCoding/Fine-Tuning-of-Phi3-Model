@@ -1,5 +1,5 @@
-
-1. **Understanding the Model**: First, I learned about the Phi3 model, which is a type of artificial intelligence that can understand and generate text based on examples it's given.
+### Steps I followed for the Tuning of the Phi3 Model for the desired learning and output from the customer - product relational queries
+1. **Understanding the Model**: First, I learned about the Phi3 model, which is a type of artificial intelligence that can understand and generate text based on examples it's given. [DataCamp](https://www.datacamp.com/tutorial/phi-3-tutorial)
 
 2. **Getting the Tools Ready**: I made sure I had all the necessary tools to work with the Phi3 model. This included setting up my environment and making sure I had access to the OpenAI API.
 
